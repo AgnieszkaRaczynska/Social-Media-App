@@ -5,7 +5,7 @@ Project created in Django 4.1.3. Social Media application with various features:
 
 ## Features
 
-- User sign up, log in, log out
+- User sign up, user log in & user log out
 - User logina and password validation
 - Uploading posts and images with text by the logged in user
 - Scrolling down posts on the homepage
