@@ -20,5 +20,5 @@ https://www.kapwing.com/videos/63764e6ea6f363001da2feba
 
 **Backend:** Python 3.10.7, Django 4.1.3, VSC
 
-**Frontend:** HTML, CSS
+**Frontend:** HTML
 
