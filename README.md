@@ -14,7 +14,7 @@ Project created in Django 4.1.3. Social Media application with various features:
 
 ## Demo
 
-https://www.kapwing.com/videos/63f4a2a8917c3b001226c648
+https://www.kapwing.com/videos/640785cc6bb7b50011781d6e
 
 ## Screenshots
 
