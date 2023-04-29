@@ -1,7 +1,7 @@
 
 # Social-Media-App
 
-Project created in Django 4.1.3. Social Media application with various features:
+Project created in Django 4.1.3. Social Media application with various features
 
 ## Features
 
